@@ -2,3 +2,9 @@ my:
     gretting: Hello World
     list:
         One, Two, Three
+
+spring:
+    datasource:
+        url: jdbc:mysql://carservice.czibfhut1usj.us-east-2.rds.amazonaws.com/cars
+        username: quintrix_cars
+        password: xtUVF6Yf685RhGJ5
